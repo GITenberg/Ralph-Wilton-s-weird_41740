@@ -1,0 +1,32 @@
+_repo: Ralph-Wilton-s-weird_41740
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41740-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alexander, Mrs.
+    aliases:
+    - Hector, Annie Alexander
+    - Hector, Annie French
+    birthdate: 1825
+    deathdate: 1902
+    gutenberg_agent_id: '8016'
+    url: http://www.gutenberg.org/2009/agents/8016
+description: ''
+gutenberg_issued: '2012-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- England -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Courtship -- Fiction'
+title: Ralph Wilton's weird
+url: http://www.gutenberg.org/ebooks/41740
